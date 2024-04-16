@@ -42,7 +42,9 @@ Podeu consultar i descarregar el treball complet a continuació:
 
 ## Autora
 
-Aquest repositori ha estat creat per [Mariona Farré](https://github.com/Mariona-FT) 
+Aquest repositori ha estat creat per [Mariona Farré](https://github.com/Mariona-FT).
+
+Els laboratoris s'han fet amb la col·laboració de [Francesco Oncins](https://github.com/Cesconcins) i [Pau Alcázar](https://github.com/drpauu)
 
 
 Gràcies per visitar aquest repositori :)
