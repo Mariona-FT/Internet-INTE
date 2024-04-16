@@ -33,9 +33,16 @@ Podeu consultar i descarregar el treball complet a continuació:
 - Configuracions del Mikrotik: [configuracions](https://github.com/Mariona-FT/Internet-INTE/tree/main/laboratori1/configuracions)
 
 #### Laboratori 2
-
+- Carpeta general: [laboratori2](https://github.com/Mariona-FT/Internet-INTE/tree/main/laboratori2)
+  - Informe questionari 1: [Lab2-questionari-1.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori2/lab2-questionari-1.pdf)
+  - Informe questionari 2: [Lab2-questionari-2.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori2/lab2-questionari-2.pdf)
+  - Informe questionari 3: [Lab2-questionari-3.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori2/lab2-questionari-3.pdf)
+  
 #### Laboratori 3
-
+- Carpeta general: [laboratori1](https://github.com/Mariona-FT/Internet-INTE/tree/main/laboratori1)
+  - Informe questionari 1: [Lab1-questionari-1.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori1/lab1-questionari-1.pdf)
+  - Informe questionari 2: [Lab1-questionari-2.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori1/lab1-questionari-2.pdf)
+  - Informe questionari 3: [Lab1-questionari-3.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori1/lab1-questionari-3.pdf)
 
 
 
