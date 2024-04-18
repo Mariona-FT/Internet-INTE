@@ -39,10 +39,10 @@ Podeu consultar i descarregar el treball complet a continuació:
   - Informe questionari 3: [Lab2-questionari-3.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori2/lab2-questionari-3.pdf)
   
 #### Laboratori 3
-- Carpeta general: [laboratori1](https://github.com/Mariona-FT/Internet-INTE/tree/main/laboratori1)
-  - Informe questionari 1: [Lab1-questionari-1.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori1/lab1-questionari-1.pdf)
-  - Informe questionari 2: [Lab1-questionari-2.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori1/lab1-questionari-2.pdf)
-  - Informe questionari 3: [Lab1-questionari-3.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori1/lab1-questionari-3.pdf)
+- Carpeta general: [laboratori3](https://github.com/Mariona-FT/Internet-INTE/tree/main/laboratori3)
+  - Informe questionari 1: [Lab3-questionari-1.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori3/lab3-questionari-1.pdf)
+  - Informe questionari 2: [Lab3-questionari-2.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori3/lab3-questionari-2.pdf)
+  - Informe questionari 3: [Lab3-questionari-3.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori3/lab3-questionari-3.pdf)
 
 
 
