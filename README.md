@@ -22,27 +22,33 @@ Podeu consultar i descarregar el treball complet a continuació:
 
 ### Laboratori
 
-#### Laboratori 1
-- Carpeta general: [laboratori1](https://github.com/Mariona-FT/Internet-INTE/tree/main/laboratori1)
-  - Informe questionari 1: [Lab1-questionari-1.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori1/lab1-questionari-1.pdf)
-  - Informe questionari 2: [Lab1-questionari-2.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori1/lab1-questionari-2.pdf)
-  - Informe questionari 3: [Lab1-questionari-3.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori1/lab1-questionari-3.pdf)
-  - Informe questionari 4: [Lab1-questionari-4.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori1/lab1-questionari-4.pdf)
-  - Informe questionari 5: [Lab1-questionari-5.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori1/lab1-questionari-5.pdf)
-  - Informe questionari 6: [Lab1-questionari-6.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori1/lab1-questionari-6.pdf)
-- Configuracions del Mikrotik: [configuracions](https://github.com/Mariona-FT/Internet-INTE/tree/main/laboratori1/configuracions)
+#### Laboratori 1: Fonaments de la Xarxa
+Explora els conceptes bàsics de TCP/IP, hosts, routers, i la configuració de xarxes.
 
-#### Laboratori 2
+- Carpeta general: [laboratori1](https://github.com/Mariona-FT/Internet-INTE/tree/main/laboratori1)
+  - Informe Questionari 1: [Equips TCP/IP, Hosts i Routers](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori1/lab1-questionari-1.pdf)
+  - Informe Questionari 2: [Configuració TCP/IP, Taules ARP, Consulta DNS](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori1/lab1-questionari-2.pdf)
+  - Informe Questionari 3: [Protocol DHCP](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori1/lab1-questionari-3.pdf)
+  - Informe Questionari 4: [Disseny i muntatge d'una xarxa, Pla d'adreçament](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori1/lab1-questionari-4.pdf)
+  - Informe Questionari 5: [Disseny i muntatge d'una xarxa, Encaminament estàtic, part1](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori1/lab1-questionari-5.pdf)
+  - Informe Questionari 6: [Disseny i muntatge d'una xarxa, Encaminament estàtic, part2](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori1/lab1-questionari-6.pdf)
+  - [Configuracions Mikrotik](https://github.com/Mariona-FT/Internet-INTE/tree/main/laboratori1/configuracions)
+
+#### Laboratori 2: Protocols i Serveis de Xarxa
+Investigació sobre serveis de xarxa, ports i connexions, i l'ús de protocols com Telnet i FTP.
+
 - Carpeta general: [laboratori2](https://github.com/Mariona-FT/Internet-INTE/tree/main/laboratori2)
-  - Informe questionari 1: [Lab2-questionari-1.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori2/lab2-questionari-1.pdf)
-  - Informe questionari 2: [Lab2-questionari-2.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori2/lab2-questionari-2.pdf)
-  - Informe questionari 3: [Lab2-questionari-3.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori2/lab2-questionari-3.pdf)
-  
-#### Laboratori 3
+  - Informe Questionari 1: [Serveis, ports i connexions](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori2/lab2-questionari-1.pdf)
+  - Informe Questionari 2: [Protocol Telnet i FTP](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori2/lab2-questionari-2.pdf)
+  - Informe Questionari 3: [Protocol HTTP](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori2/lab2-questionari-3.pdf)
+
+#### Laboratori 3: Seguretat i Firewall
+Focus en les polítiques de seguretat del firewall i configuració per a la protecció de xarxes.
+
 - Carpeta general: [laboratori3](https://github.com/Mariona-FT/Internet-INTE/tree/main/laboratori3)
-  - Informe questionari 1: [Lab3-questionari-1.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori3/lab3-questionari-1.pdf)
-  - Informe questionari 2: [Lab3-questionari-2.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori3/lab3-questionari-2.pdf)
-  - Informe questionari 3: [Lab3-questionari-3.pdf](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori3/lab3-questionari-3.pdf)
+  - Informe Questionari 1: [Polítiques de seguretat del firewall](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori3/lab3-questionari-1.pdf)
+  - Informe Questionari 2: [Configuració del Firewall](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori3/lab3-questionari-2.pdf)
+  - [Backup del Firewall Mikrotik](https://github.com/Mariona-FT/Internet-INTE/blob/main/laboratori3/firewall.backup)
 
 
 
